@@ -2,21 +2,18 @@
 
 ## Este notebook visa esclarecer todos os pontos teóricos referentes à técnica de potencial espontâneo em dados de well logging. 
 
-<div class="box">
-    <img src="Imagens/sp7.jpg"/>
-    <span> Titulo da primeira imagem </span>
-</div>
-<div class="box">
-    <img src="Imagens/sp6.jpg"/>
-    <span> Titulo da segunda imagem </span>
+<div class="holder">
+
+  <div class="imagem" data-title="Ambiente de poço">
+    <img src="Imagens/sp7.jpg" alt="">
+  </div>
+
+  <div class="imagem" data-title="Seção de uma perfilagem">
+    <img src="Imagens/sp6.jpg" alt="">
+  </div>
+
 </div>
 
-<style>
-div.box {
-    width: 150px;
-    display: inline-block;
-}
-</style>
 
 
 ## Referências online:
