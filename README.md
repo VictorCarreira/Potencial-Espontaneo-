@@ -2,13 +2,8 @@
 
 ## Este notebook visa esclarecer todos os pontos teóricos referentes à técnica de potencial espontâneo em dados de well logging. 
 
-<p align="right">
-  <img src="Imagens/sp6.jpg" width="150"/>
-</p>
-
-<p align="left">
-  <img src="Imagens/sp7.jpg" width="150"/>
-</p>
+<img src="Imagens/sp6.jpg" width="250"/>
+<img src="Imagens/sp7.jpg" width="250"/>
 
 
 ## Referências online:
