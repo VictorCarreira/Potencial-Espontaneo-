@@ -11,7 +11,14 @@
 </p>
 
 
-Referências Bibliográficas:
+## Referências online:
+  É importante olhar esses sítios eletrônicos.
+
+- [Well-Logging overview](http://www.pacificsurveys.com/01.htm)
+- [BDEP](http://www.anp.gov.br/wwwanp/exploracao-e-producao-de-oleo-e-gas/dados-tecnicos?view=default)
+- [IODP project](https://www.iodp.org/)
+
+## Referências Bibliográficas:
 
 - Ellis, D. V. and Singer, J. M., Well Logging for Earth Scientists, 2nd Edition, Springer, 2008. 
 
