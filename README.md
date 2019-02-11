@@ -1,6 +1,9 @@
 # Spontaneous Potential and Basic Resistivity
 
-## Este notebook visa esclarescer todos os pontos teóricos referentes à técnica de potencial espontâneo em dados de well logging. 
+## Este notebook visa esclarecer todos os pontos teóricos referentes à técnica de potencial espontâneo em dados de well logging. 
+
+
+
 
 Referências Bibliográficas:
 
